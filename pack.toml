@@ -1,0 +1,13 @@
+name = "Tech"
+author = "Marios"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "138aa0e185032be10313b0734f1ce42ebfd92d270d75f8a3481880c62b252d82"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.21.1"
